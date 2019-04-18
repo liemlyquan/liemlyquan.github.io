@@ -16,7 +16,7 @@
 title: Liem Ly
 email: liemlyquan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A software engineer 2-cents
+  A software engineer's two-cents
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: liemlyquan
