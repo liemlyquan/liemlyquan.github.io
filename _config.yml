@@ -18,7 +18,7 @@ email: liemlyquan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A software engineer's two-cents
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.liemly.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: liemlyquan
 github_username:  liemlyquan
 linkedin_username: liemlyquan
@@ -28,6 +28,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+
 google_analytics: UA-43032567-6
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
