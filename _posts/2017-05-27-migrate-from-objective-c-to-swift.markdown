@@ -10,7 +10,7 @@ Disclaimer: This post is written based on my real experience migrating our Chopp
 
 * Containing flaw/nonoptimal/simply stupid/etc. But hey, it works. At least Fabric agree with me (we started migration at the end of March).
 
-![Crash rate](https://cdn-images-1.medium.com/max/3036/1*Lc1xI8hJhMMKx7m6Iu9hVw.png)*Crash rate*
+![Crash rate](/assets/post-images/2017-05-27/crash-rate.png)*Crash rate*
 
 Nevertheless, I would truly appreciate for any correction and suggestion to make this article a better guide for people who want to make a switch.
 
@@ -38,7 +38,7 @@ Before making the migration, here are some of my presumption
 
 * We have 4 different targets when building our app as follows
 
-![](https://cdn-images-1.medium.com/max/2000/1*L61yFPq4iUNws8I0qzDV7Q.png)
+![](/assets/post-images/2017-05-27/target.png)
 
 * ChoppDev: for development, where we will do testing locally on our own computer
 
