@@ -57,7 +57,7 @@ Secure MySQL server by following the wizard.
 
 Take note first of your MySQL root password. Write it down or copy to somewhere safe.
 
-![](https://cdn-images-1.medium.com/max/2000/1*Px7HRkUQFyD-lbJFirtOWQ.png)
+![](/assets/post-images/2017-02-15/mysql-root-password.png)
 
 Now run mysql_secure_installation and follow the wizard.
 
@@ -118,7 +118,7 @@ Double-check that you have copied all the files, do the following;
 
 Then do a ls command.
 
-![](https://cdn-images-1.medium.com/max/2000/1*joTN1GSLFZTaVlvGm3RlHA.png)
+![](/assets/post-images/2017-02-15/ls-command.png)
 
 ## Step 5: Create OpenCart config.php file
 
@@ -197,13 +197,13 @@ You should be redirected to OpenCart’s installation wizard.
 
 Check the page, make sure that all is green. Which means… all the requirements are met by your VPS.
 
-![](https://cdn-images-1.medium.com/max/2000/1*AVl9RjCtTi72JwxK91y82g.jpeg)
+![](/assets/post-images/2017-02-15/install-requirement.jpeg)
 
 Everything is straight-forward on this page, just fill all the fields with the proper data and install OpenCart.
 
 Click Continue button till you finish installing it.
 
-![](https://cdn-images-1.medium.com/max/2000/1*blBDkKwOikGfRRypX754dw.png)
+![](/assets/post-images/2017-02-15/install-finished.png)
 
 Delete the install folder for security reason.
 
